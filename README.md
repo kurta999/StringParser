@@ -1,2 +1,2 @@
 # StringParser
-You can parse strings from your mode into file with this shit
+You can parse strings from your mode into file with this simple application.
